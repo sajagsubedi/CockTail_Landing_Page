@@ -17,7 +17,7 @@ const Cockatails = () => {
   }, []);
 
   return (
-    <section className="nosiy" id="cocktails">
+    <section className="noisy" id="cocktails">
       <img src="/images/cocktail-left-leaf.png" alt="l-leaf" id="c-left-leaf" />
       <img
         src="/images/cocktail-right-leaf.png"
